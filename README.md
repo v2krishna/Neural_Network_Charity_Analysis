@@ -32,5 +32,5 @@ The main purpose of the use case is to perform AI alogrithms using deep-learning
 
 ## Summary: 
  
-The Deep Learning NN model did not reach the target of 75% accuracy.Based on the model performance we cannot use this model for predicting the charity donation been used effectively. Since this is classification situation, we could use a supervised machine learning model such as the Random Forest Classifier to combine a multitude of decision trees to generate a classified output and evaluate its performance against our deep learning model.
+The Deep Learning NN model did not reach the target of 75% accuracy.Based on the model performance we cannot use this model for predicting the charity donation been used effectively. Since this is classification usecase we can try supervised learning models such as Random Forest Classifier/ Decission Tree Classifications and compare the output to Deep Learning NN model.
 
